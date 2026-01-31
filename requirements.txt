@@ -13,5 +13,8 @@ schedule>=1.2.0
 # Optional: Yahoo Finance for corporate events
 yfinance>=0.2.30
 
+# Visualization
+matplotlib>=3.7.0
+
 # Development
 pytest>=7.4.0
